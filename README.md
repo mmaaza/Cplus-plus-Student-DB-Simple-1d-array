@@ -1,5 +1,5 @@
-# Student-DB-2d-array
-Student Database using Simple 2d arrays with procedural programming approach.
+# Student-DB-Simple-1d-array
+Student Database using Simple 1d arrays with procedural programming approach.
 
 **Project Description:**
 The Project displays the following menu:
