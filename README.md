@@ -1,4 +1,4 @@
-# Student-DB-Simple-1d-array
+# C++: Student Database  by using Simple 1d Array
 Student Database using Simple 1d arrays with procedural programming approach.
 
 **Project Description:**
